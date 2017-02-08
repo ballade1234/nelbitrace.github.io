@@ -114,12 +114,18 @@ body {
 #contents table {
 	width: 100%;
 	color: white;
+	font-family: 'Nanum gothic', serif;
+        font-size: .7rem;
 }
 
 
 .full {
 	color: red;
+	font-family: 'Nanum gothic', serif;
+        font-size: .7rem;
 }
 .mid {
 	color: lime;
+	font-family: 'Nanum gothic', serif;
+        font-size: .7rem;
 }
